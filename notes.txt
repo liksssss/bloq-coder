@@ -1,0 +1,4 @@
+php artisan migrate:fresh --seed 
+: digunakan dalam kerangka kerja Laravel untuk mengatur ulang basis data dengan menjalankan semua migrasi database dari awal dan kemudian menjalankan pembibitan (seeding) data.
+
+php artisan storage:link
